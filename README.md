@@ -3,6 +3,11 @@
 #### About Jarvis dependency injection into ppa-builder |  deleted:
 ccache
 libafpclient-dev 
+new deps added:
+dcadec-dev,
+libcrossguid-dev,
+python-support | python-minimal,
+uuid-dev
 
 Kodi is an award-winning free and open source (GPL) software media player and
 entertainment hub for digital media. Kodi is available for multiple platforms.
