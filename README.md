@@ -17,6 +17,9 @@ libnfs8 | libnfs4 | libnfs1,
 libgnutls30 | libgnutls-deb0-28 | libgnutls28 | libgnutls26,
 libyajl2
 
+Suggests: kodi-addon-xvdr,
+         kodi-addon-iptvsimple
+
 Kodi is an award-winning free and open source (GPL) software media player and
 entertainment hub for digital media. Kodi is available for multiple platforms.
 Created in 2003 by a group of like minded programmers, Kodi is a non-profit
