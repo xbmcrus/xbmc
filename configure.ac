@@ -160,7 +160,7 @@ if test "$GIT_REV" = ""; then
   elif test "$HAVE_GIT" = "yes" -a -d ${abs_top_srcdir}/.git; then
     GIT_REV=$(git --no-pager log --abbrev=7 -n 1 --pretty=format:"%h %ci" HEAD | awk '{gsub("-", "");print $2"-"$1}')
   else
-    GIT_REV="Unknown"
+    GIT_REV="dd2daf6"
   fi
 fi
 final_message="$final_message\n  git Rev.:\t${GIT_REV}"
