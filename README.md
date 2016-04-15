@@ -19,6 +19,8 @@ libyajl2
 
 Suggests: kodi-addon-xvdr,
          kodi-addon-iptvsimple
+         
+Suggests: kodi-pvr-
 
 Kodi is an award-winning free and open source (GPL) software media player and
 entertainment hub for digital media. Kodi is available for multiple platforms.
