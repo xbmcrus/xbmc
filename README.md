@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/xbmc/xbmc.svg?branch=Jarvis)](https://travis-ci.org/xbmc/xbmc)
 
-#### About
+#### About Jarvis dependency injection into ppa-builder |  deleted:
+ccache
+libafpclient-dev 
 
 Kodi is an award-winning free and open source (GPL) software media player and
 entertainment hub for digital media. Kodi is available for multiple platforms.
